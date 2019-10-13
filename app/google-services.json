@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350989921483",
+    "firebase_url": "https://safechat-df1e3.firebaseio.com",
+    "project_id": "safechat-df1e3",
+    "storage_bucket": "safechat-df1e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350989921483:android:4298f94c2ea5388e",
+        "android_client_info": {
+          "package_name": "com.deo.tanis.safechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350989921483-41a79p0sjocfg1k06rdalv3m4u0gtq8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deo.tanis.safechat",
+            "certificate_hash": "7e20bfdf8f6faa187995eddddc91fc1e930a76f9"
+          }
+        },
+        {
+          "client_id": "350989921483-24klde5n18jtvn5j4e774lmbp270p6gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAWRMMHQ5F98LDzXWvedo7MXCoXbjxzEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350989921483-24klde5n18jtvn5j4e774lmbp270p6gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

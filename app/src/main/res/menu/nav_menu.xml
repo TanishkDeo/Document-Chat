@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+<item
+    android:id="@+id/empty"
+    android:title="options"
+    android:orderInCategory="101"
+    app:showAsAction="always"
+    android:icon="@drawable/baseline_more_vert_white_18dp">
+
+    <menu>
+
+        <item android:id="@+id/action_settings"
+            app:showAsAction="ifRoom"
+            android:title="Settings" />
+
+        <item android:id="@+id/action_sign_out"
+            app:showAsAction="ifRoom"
+            android:title="Sign Out" />
+
+
+
+    </menu>
+
+</item>
+
+</menu>
