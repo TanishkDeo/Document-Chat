@@ -1,2 +1,2 @@
-# Safechat
-Messaging App with AI message filtration. 
+# Android Chat Application
+Messaging App.
