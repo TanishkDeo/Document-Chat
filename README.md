@@ -1,2 +1,2 @@
-# Android Chat Application
+# Android Chat Application - Firebase (Document DB)
 Messaging App.
