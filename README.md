@@ -1,4 +1,4 @@
-# Afla
+# Document Chat
 
 
 * Firebase (Realtime Database) Messaging Application
